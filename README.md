@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangeeta Bhargava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  src="<img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="350" height="350" style="display:inline float:right"></div>" width="350" height="350" style="display:inline float:right"></div>
- 
+<img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="350" height="350" style="display:inline float:right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
